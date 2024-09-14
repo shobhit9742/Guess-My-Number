@@ -14,6 +14,12 @@ A fun and simple number-guessing game where players try to guess a hidden number
 
 [Play the game here](https://guessmynumbergme.netlify.app)
 
+![Screenshot 2024-09-15 012252](https://github.com/user-attachments/assets/c9ed3f8a-4a55-4a0e-95ed-277a00bc3e32)
+
+![Screenshot 2024-09-15 012355](https://github.com/user-attachments/assets/0351e756-9b6f-4a56-ad5d-f3f570b09518)
+
+![Screenshot 2024-09-15 012320](https://github.com/user-attachments/assets/798c2601-d211-4cec-ba85-9c127af8b067)
+
 ## Technologies Used
 - HTML
 - CSS
